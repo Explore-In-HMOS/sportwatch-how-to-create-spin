@@ -1,0 +1,11 @@
+<div class="container" onswipe="swipe">
+    <div class="mainContainer">
+        <image
+                id="imageToRotate"
+                src="common/huawei.png"
+                class="image"
+                style="animation-name: {{ animationName }};"
+                onclick="rotateImage">
+        </image>
+    </div>
+</div>
