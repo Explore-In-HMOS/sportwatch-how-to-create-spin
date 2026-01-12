@@ -2,7 +2,7 @@ import app from '@system.app';
 
 export default {
     rotateImage() {
-        this.animationName = "rotate" + this.index;
+        this.animationName = `rotate` + this.index;
         this.index = (this.index + 1) % 4;
     },
 

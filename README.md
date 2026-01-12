@@ -1,6 +1,6 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit 
 
-# How To Create Spin at Lite
+# sportwatch-howto-create-spin
 
 This project demonstrates a simple image rotation interaction built with HarmonyOS in Lite Wearable devices.
 The app displays a centered image on the screen, which rotates by 90 degrees with each tap.
@@ -31,7 +31,7 @@ Learning Resource: A practical example for beginners to understand event handlin
 - **Frameworks**: HarmonyOS SDK 4.0.0(10)
 - **Tools**: DevEco Studio Vers 5.1.0.842
 
-# Project Directory
+# Directory Structure
    ```
    src/main/js/MainAbility/pages/
    |---index
@@ -42,12 +42,8 @@ Learning Resource: A practical example for beginners to understand event handlin
 
 # Constraints and Restrictions
 ## Supported Devices
-  - Huawei Sport (Lite) Watch GT 4/5/6
-  - Huawei Sport (Lite) GT4/5 Pro
-  - Huawei Sport (Lite) Fit 3/4
-  - Huawei Sport (Lite) D2
-  - Huawei Sport (Lite) Ultimate
+- Huawei Lite Wearable Devices
 
 # License
-**SpinLite** is distributed under the terms of the MIT License
+**sportwatch-howto-create-spin** is distributed under the terms of the MIT License
 See the [LICENSE](./LICENSE) for more information.
