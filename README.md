@@ -2,7 +2,7 @@
 
 # sportwatch-howto-create-spin
 
-This project demonstrates a simple image rotation interaction built with HarmonyOS in Lite Wearable devices.
+This project demonstrates a simple image rotation interaction built with HarmonyOS in SportWatch devices.
 The app displays a centered image on the screen, which rotates by 90 degrees with each tap.
 In addition, a right-swipe gesture allows users to exit the app instantly.
 
@@ -42,7 +42,7 @@ Learning Resource: A practical example for beginners to understand event handlin
 
 # Constraints and Restrictions
 ## Supported Devices
-- Huawei Lite Wearable Devices
+- Huawei SportWatch Devices
 
 # License
 **sportwatch-howto-create-spin** is distributed under the terms of the MIT License
